@@ -1,0 +1,25 @@
+{
+  "name": "mern-shop",
+  "version": "1.0.0",
+  "description": "mern shop app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrantBest805/MERN_ecom_myShop.git"
+  },
+  "author": "Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrantBest805/MERN_ecom_myShop/issues"
+  },
+  "homepage": "https://github.com/GrantBest805/MERN_ecom_myShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
